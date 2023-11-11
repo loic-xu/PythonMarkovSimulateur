@@ -1,6 +1,6 @@
-# Projet Mathématique sur les Chaînes de Markov et Simulation de Monte-Carlo en Python
+# Projet Mathématiques sur les Chaînes de Markov et Simulation de Monte-Carlo en Python
 
-Bienvenue dans le projet mathématique explorant les chaînes de Markov et les simulations de Monte-Carlo en utilisant Python. Ce projet couvre divers aspects des chaînes de Markov, des variables aléatoires discrètes, des marches aléatoires, et des méthodes de Monte-Carlo pour estimer des probabilités.
+Bienvenue dans le projet mathématiques explorant les chaînes de Markov et les simulations de Monte-Carlo en utilisant Python. Ce projet couvre divers aspects des chaînes de Markov, des variables aléatoires discrètes, des marches aléatoires, et des méthodes de Monte-Carlo pour estimer des probabilités.
 
 ## Objectifs du Projet
 
